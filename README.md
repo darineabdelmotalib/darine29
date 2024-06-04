@@ -1,26 +1,7 @@
-### Hi there, my name is Darine! :)
-<!--
-**darine29/darine29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, welcome to my GitHub page! My name is Darine and I am a second-year Bachelor of Science student at the University of British Columbia, aiming to secure a degree in Computer Science. 
 
-Here are some ideas to get you started:
+My journey into technology has been fueled by a fascination with how code can transform ideas into impactful digital experiences. Creating personal projects in both front-end and back-end web development has not only honed my technical skills, but also sparked a deep eagerness to leverage my knowledge and join this field professionally. My projects are right here on GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on a hackathon project!
-- 🌱 I’m currently learning use gitHub and version control
-- 👯 I’m looking to collaborate on projects with other people!
-- 🤔 I’m looking for help with getting into the tech business
-- 💬 Ask me about anything!
-- 📫 How to reach me: Darine Abdelmotalib on linked in
-- 😄 Pronouns: sher/her
-- ⚡ Fun fact: my cat Luna and I share the same birthday!
+I am actively seeking opportunities to grow and contribute within the dynamic field of software development. With a strong foundation in both theoretical and practical aspects of computer science, I am ready to tackle new challenges and make a meaningful impact in this industry.
 
 
